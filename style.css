@@ -1,0 +1,36 @@
+
+
+body{
+  background-color: black;
+}
+
+h1{
+	color: white;
+	padding: 40px;
+	background-color:#666;
+}
+.boldClass{
+	font-weight: bold;
+}
+#bigId{
+	font-size: 30px;
+}
+p{
+	color: white;
+}
+H3{
+	color: white;
+}
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 300%;
+	font-style: italic;
+}
